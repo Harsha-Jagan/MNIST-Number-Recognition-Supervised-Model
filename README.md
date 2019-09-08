@@ -5,6 +5,7 @@
 
 # Organization:
   There are 3 main components in this project:
+  
     1. res.zip
       This compressed zip folder contains the MNIST image and label files that were used to train and test the Neural Network.
 
